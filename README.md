@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishansaxena022
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Deep Learing.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Dev.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me 
 - Email :- saxenaishan0202@gmail.com
 
