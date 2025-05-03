@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ishansaxena022
-- 👀 I’m interested in Web Dev.
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on MERN projects
+- 👋 Hi, I’m Ishan
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning Androoid app development.
+- 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me 
 - Email :- saxenaishan0202@gmail.com
 
