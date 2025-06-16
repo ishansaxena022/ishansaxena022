@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishan
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Androoid app development.
+- 🌱 I’m currently learning Android app development.
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me 
 - Email :- saxenaishan0202@gmail.com
